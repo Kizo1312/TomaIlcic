@@ -1,11 +1,21 @@
-import "./App.css";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Technologies from "./components/Technologies";
+import Projects from "./components/Projects";
+import DownloadCV from "./components/DownloadCV";
+import Connect from "./components/Connect";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-        <h1 className="text-4xl font-bold text-blue-600">Hello Toma 👋</h1>
-      </div>
+      <Hero />
+      <About />
+      <Technologies />
+      <Projects />
+      <DownloadCV />
+      <Connect />
+      <Footer />
     </>
   );
 }
