@@ -11,14 +11,7 @@ const Projects = () => {
       demoLink: "https://demo1.com",
       codeLink: "https://github.com/Kizo1312/GolfResort",
     },
-    {
-      name: "Varaždin Chamber Orchestra Website",
-      description:
-        "A public-facing website for a classical music orchestra, featuring concert announcements and admin content editing.",
-      techs: ["React", "Flask", "Marshmallow", "JWT"],
-      demoLink: "https://demo2.com",
-      codeLink: "https://github.com/your-repo2",
-    },
+
     {
       name: "Personal Portfolio",
       description:
