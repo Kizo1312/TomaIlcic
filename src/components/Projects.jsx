@@ -9,7 +9,7 @@ const Projects = () => {
         "A web app for making golf course reservations and managing services via an admin panel.",
       techs: ["React", "Tailwind", "Flask", "PostgreSQL"],
       demoLink: "https://demo1.com",
-      codeLink: "https://github.com/your-repo1",
+      codeLink: "https://github.com/Kizo1312/GolfResort",
     },
     {
       name: "Varaždin Chamber Orchestra Website",
@@ -25,7 +25,7 @@ const Projects = () => {
         "A clean and elegant personal website showcasing projects, skills, and a downloadable CV.",
       techs: ["React", "Tailwind", "Vite"],
       demoLink: "https://demo3.com",
-      codeLink: "https://github.com/your-repo3",
+      codeLink: "https://github.com/Kizo1312/TomaIlcic",
     },
   ]);
 
